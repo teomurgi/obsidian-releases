@@ -18240,5 +18240,12 @@
     "author": "Constantine Sazonov",
     "description": "Drag to scroll - just like on a touch device!",
     "repo": "constsz/obsidian-drag-to-scroll"
+  },
+    {
+    "id": "obsidian-mstodo-sync",
+    "name": "Microsoft To Do Sync",
+    "author": "Matteo Murgida",
+    "description": "Bidirectional sync between Obsidian tasks and Microsoft To Do (personal accounts only)",
+    "repo": "teomurgi/obsidian-mstodo-sync"
   }
 ]
